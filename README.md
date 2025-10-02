@@ -51,22 +51,6 @@ Cada resultado é salvo em arquivo, permitindo **CRUD (Create, Read, Delete)** s
 
 ---
 
-## 🔎 Avaliação das Linguagens
-
-### Linguagem C
-- **Paradigma:** Imperativo, procedural.  
-- **Tipagem:** Estática e forte.  
-- **Abstração:** Baixa – exige manipulação direta de memória e arquivos.  
-- **Foco:** Eficiência, controle de baixo nível, performance.  
-
-### Linguagem Perl
-- **Paradigma:** Multiparadigma (imperativo, procedural e suporte a OO).  
-- **Tipagem:** Dinâmica e fraca.  
-- **Abstração:** Alta – manipulação de strings e arquivos muito simplificada.  
-- **Foco:** Produtividade, automação de tarefas, manipulação de texto e arquivos.  
-
----
-
 ## 🔀 Principais diferenças entre C e Perl
 | Aspecto          | C | Perl |
 |------------------|---|------|
