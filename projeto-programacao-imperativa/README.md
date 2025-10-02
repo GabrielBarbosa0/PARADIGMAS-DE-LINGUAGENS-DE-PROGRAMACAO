@@ -27,7 +27,6 @@ ou
 chmod +x guess_crud.pl
 ./guess_crud.pl
 
-## /////////////////////////////////
 
 ## Formato do arquivo de dados
 Cada linha: `id|player|min|max|target|attempts|status`
