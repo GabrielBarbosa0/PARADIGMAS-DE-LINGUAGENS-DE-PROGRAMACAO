@@ -101,15 +101,7 @@ Cada resultado é salvo em arquivo, permitindo **CRUD (Create, Read, Delete)** s
 
 ---
 
-## ▶️ Como compilar e executar
 
-### Em C
-```bash
-gcc -o guess_crud guess_crud.c
-./guess_crud
-
-
----
 
 ## 👨‍💻 Autor
 **Gabriel Gomes Barbosa**  
@@ -119,3 +111,15 @@ gcc -o guess_crud guess_crud.c
 
 ---
 📅 *Repositório criado para fins acadêmicos na disciplina de Paradigmas de Linguagens de Programação.*
+
+
+
+## ▶️ Como compilar e executar
+
+### Em C
+```bash
+gcc -o guess_crud guess_crud.c
+./guess_crud
+
+
+---
